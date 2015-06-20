@@ -1,0 +1,5 @@
+mogrify -fill "#666666" title-1-inactive.png;
+mogrify -fill "#666666" title-2-inactive.png;
+mogrify -fill "#666666" title-3-inactive.png;
+mogrify -fill "#666666" title-4-inactive.png;
+mogrify -fill "#666666" title-5-inactive.png;

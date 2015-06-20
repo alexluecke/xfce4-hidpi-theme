@@ -1,5 +1,5 @@
 # mntmn theme adapted from Olivier Fourdan's template (2007)
-# Which was in turn based on Tango color scheme http://tango-project.org 
+# Which was in turn based on Tango color scheme http://tango-project.org
 
 style "default"
 {
@@ -25,7 +25,7 @@ style "default"
     GtkRange::trough_border                      = 0
     GtkScrollbar::has_backward_stepper           = 1
     GtkScrollbar::min_slider_length              = 20
-    ExoIconBar::focus_padding                    = 2 
+    ExoIconBar::focus_padding                    = 2
 
     xthickness = 4
     ythickness = 4
