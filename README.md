@@ -16,7 +16,5 @@ License: GNU GPL
 
 Includes Default xfce4-session balou theme in balou/
 
-Icon theme in screenshot: [Ultra Flat Icons](http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477)
-
-![Screenshot of mntmn hidpi theme for xfce](http://dump.mntmn.com/xfce4-hidpi.png)
+![Screenshot of mntmn hidpi theme for xfce](http://i.imgur.com/X346BMG.png)
 
